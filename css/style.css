@@ -189,7 +189,7 @@ ol {
 }
 
 .circle-progress .progress-info {
-	background: #f2f7f8;
+	background: #fff3f5;
 	width: 127px;
 	height: 127px;
 	border-radius: 150px;
@@ -367,7 +367,7 @@ ol {
 -----------------------*/
 .header-section {
 	padding: 50px 40px;
-	background: #f2f7f8;
+	background: #fff3f5;
 }
 
 .site-logo h2 {
@@ -391,7 +391,7 @@ ol {
 	Hero section
 -----------------------*/
 .hero-section {
-	background: #f2f7f8;
+	background: #fff3f5;
 }
 
 .hero-text {
@@ -538,7 +538,7 @@ ol {
 	Resume section
 ----------------------*/
 .resume-section.with-bg {
-	background-color: #f2f7f8;
+	background-color: #fff3f5;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -853,7 +853,7 @@ ol {
 -----------------------*/
 .home-three-style .main-left-area,
 .home-four-style .main-left-area {
-	background: #f2f7f8;
+	background: #fff3f5;
 	padding-top: 200px;
 	padding-right: 80px;
 	padding-left: 80px;
@@ -1270,7 +1270,7 @@ ol {
 @media only screen and (max-width: 1450px) {
 	.home-five-style .header-section {
 		position: relative;
-		background: #f2f7f8;
+		background: #fff3f5;
 	}
 	.home-six-style .header-section {
 		position: relative;
@@ -1281,7 +1281,7 @@ ol {
 @media only screen and (max-width: 1366px) and (min-width: 1200px) {
 	.home-five-style .header-section {
 		position: relative;
-		background: #f2f7f8;
+		background: #fff3f5;
 	}
 	.container-warp {
 		min-width: 80%;
@@ -1354,7 +1354,7 @@ ol {
 	}
 	.home-three-style .header-section {
 		position: relative;
-		background: #f2f7f8;
+		background: #fff3f5;
 	}
 	.home-three-style .main-left-area {
 		padding-top: 0;
@@ -1430,7 +1430,7 @@ ol {
 	}
 	.home-three-style .header-section {
 		position: relative;
-		background: #f2f7f8;
+		background: #fff3f5;
 	}
 	.home-three-style .main-left-area {
 		padding-top: 0;
